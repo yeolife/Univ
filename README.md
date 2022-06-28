@@ -26,13 +26,13 @@ Java NIO의 TCP/IP Socket 통신으로 서버는 요청을 대기하다가 2명�
 
 
 
-결과
+서버
 
 ![image](https://user-images.githubusercontent.com/82012857/176306088-5259b6eb-3fff-46f1-b03c-b78feee03eb2.png)
 
-서버
-
-![image](https://user-images.githubusercontent.com/82012857/176306107-cdf369a7-7ce9-4642-817a-a6e7070e627d.png) 
-![image](https://user-images.githubusercontent.com/82012857/176306112-3bf4cf09-fd19-4ecd-8a69-933ce44cb99c.png)
 
 유저1 유저2
+
+![image](https://user-images.githubusercontent.com/82012857/176306701-77f72482-520a-4b46-a035-a1c6f5a7d50c.png)
+
+![image](https://user-images.githubusercontent.com/82012857/176306799-06fe9a5c-a3c5-4693-9c08-95b490069406.png)
