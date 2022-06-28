@@ -1,11 +1,11 @@
 # WordChain
 
-정의 
+<h3>정의</h3><br>
 
 Java NIO의 TCP/IP Socket 통신으로 서버는 요청을 대기하다가 2명의 클라이언트가 연결 요청을 하면, 핸들러를 통해 중재하고 클라이언트끼리 Bytebuffer를 사용하여 영단어 끝말잇기를 할 수 있게 만들어 봤다.
 
-
-작동순서
+<br><hr><br>
+<h3>작동순서</h3><br>
 
 1. 서버의 ServerSocketChannel이 Blocking 모드로 5000번 port에서 클라이언트의 요청을 대기한다.
 
@@ -24,15 +24,13 @@ Java NIO의 TCP/IP Socket 통신으로 서버는 요청을 대기하다가 2명�
 
 6. 반복하다가 문자열의 끝과 다르면 종료해 준다.
 
-
-
+<br><hr><br>
+<h3>결과</h3><br>
 서버
 
 ![image](https://user-images.githubusercontent.com/82012857/176306088-5259b6eb-3fff-46f1-b03c-b78feee03eb2.png)
 
-
+<br>
 유저1 유저2
 
-![image](https://user-images.githubusercontent.com/82012857/176306701-77f72482-520a-4b46-a035-a1c6f5a7d50c.png)
-
-![image](https://user-images.githubusercontent.com/82012857/176306799-06fe9a5c-a3c5-4693-9c08-95b490069406.png)
+![image](https://user-images.githubusercontent.com/82012857/176306965-16750c37-edda-4ba5-bcdc-a54d80beec23.png)
