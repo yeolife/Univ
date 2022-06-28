@@ -25,7 +25,7 @@ LCD1602에 5자리 난수 암호가 생성되면 조이스틱 방향에 따라 �
 
 ![image](https://user-images.githubusercontent.com/82012857/176305584-b6e8831b-8ea0-42d2-a874-ca78089e391e.png)
 
-![image](https://user-images.githubusercontent.com/82012857/176305699-ccfc83e4-e1d5-426c-b82f-983785d7f656.png)
+![tlfgja](https://user-images.githubusercontent.com/82012857/176312873-ca66e82e-b79f-45c6-89ba-8b0b17e71a20.gif)
 
 고찰 :
 
