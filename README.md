@@ -1,4 +1,4 @@
-# Flappy-Bird
+# Flappy Bird
 
 Flappy Bird는 클릭으로 새가 점프하여 파이프 사이를 넘는 게임이다.
 
